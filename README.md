@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Java, C Programming, and Data Structures & Algorithms (DSA).<br><br>👯 I’m looking to collaborate on beginner-friendly AI, Machine Learning, and Open Source projects.<br><br>🤝 I’m looking for help with DSA, Git & GitHub, and Full-Stack Development.<br><br>🌱 I’m currently learning Python, Java, SQL, Data Structures & Algorithms, and Machine Learning.<br><br>💬 Ask me about Java, Python, C Programming, DSA, and AI & Data Science.<br><br>⚡ Fun fact: I enjoy solving coding problems and learning new technologies every day.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prnxu_789) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/psen3606) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshusen3606@gmail.com) 
 
